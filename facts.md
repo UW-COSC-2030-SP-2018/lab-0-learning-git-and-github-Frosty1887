@@ -6,5 +6,5 @@ List two truths and one lie about you below
 1. I have lived in wyoming my entire life. 
 
 
-[![Screenshot of proof ](https://github.com/lab-0-learning-git-and-github-Frosty1887/proof/proof.jpg)](#features)
+[![Screenshot of proof ](lab-0-learning-git-and-github-Frosty1887/proof/proof.jpg)](#features)
 
